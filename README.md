@@ -1,6 +1,1 @@
-\# Trabajo práctico Modelizado de IA
-
-
-
-
-
+# Trabajo práctico Modelizado de IA
